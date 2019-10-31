@@ -14,7 +14,7 @@ Make sure your background must be clean and light-coloured as much as possible.
 ![opencv-python-amit-bohra-github-hand-gesture-recognition 3](https://github.com/amit-bohra/Python3-and-Opencv4-based-Hand-Gesture-Recognition-Finger-Counting-Rock-Paper-Scissor/blob/master/Screenshots/screen%203.png)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-![opencv-python-amit-bohra-github-hand-gesture-recognition 4](https://github.com/amit-bohra/Python3-and-Opencv4-based-Hand-Gesture-Recognition-Finger-Counting-Rock-Paper-Scissor/blob/master/Screenshots/screen%204.png)
+![opencv-python-amit-bohra-github-hand-gesture-recognition 4](https://github.com/amit-bohra/Python3-and-Opencv4-based-Hand-Gesture-Recognition-Finger-Counting-Rock-Paper-Scissor/blob/master/Screenshots/screen%205.png)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 ![opencv-python-amit-bohra-github-hand-gesture-recognition 5](https://github.com/amit-bohra/Python3-and-Opencv4-based-Hand-Gesture-Recognition-Finger-Counting-Rock-Paper-Scissor/blob/master/Screenshots/swin%205.png)
@@ -31,7 +31,7 @@ Make sure your background must be clean and light-coloured as much as possible.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 ![opencv-python-amit-bohra-github-hand-gesture-recognition 9](https://github.com/amit-bohra/Python3-and-Opencv4-based-Hand-Gesture-Recognition-Finger-Counting-Rock-Paper-Scissor/blob/master/Screenshots/swin%209.png)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Thank You
 
 
